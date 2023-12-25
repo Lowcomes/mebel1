@@ -477,8 +477,6 @@ button:focus {
     max-width: 825px;
     margin: 0 auto 48px auto;
   }
-  &__component {
-  }
   &__hero {
     position: relative;
     height: 627px;
@@ -669,8 +667,6 @@ button:focus {
   &__text {
     font-size: 15px;
     margin-bottom: 20px;
-  }
-  &__name {
   }
   &__btn {
     display: block;
@@ -1101,10 +1097,4 @@ button:focus {
   .advantage__pluses {
     padding-bottom: 97px;
   }
-}
-@media (max-width: 390px) {
-}
-@media (max-width: 375px) {
-}
-@media (max-width: 360px) {
 }

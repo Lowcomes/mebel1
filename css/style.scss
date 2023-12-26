@@ -645,7 +645,7 @@ button:focus {
 }
 .burger__tel {
   display: block;
-  margin-top: 50px;
+  margin: 50px;
   font-family: 'Oranienbaum', serif;
   letter-spacing: 0.05em;
   font-size: 20px;
@@ -857,7 +857,7 @@ button:focus {
     left: -60px;
   }
 }
-@media (max-width: 768px) {
+@media (max-width: 900px) {
   .header__messager {
     margin: 0 10px;
   }
@@ -913,6 +913,8 @@ button:focus {
       width: 53px;
     }
   }
+}
+@media (max-width: 768px) {
   .advantage__pluses {
     margin-bottom: 1vw;
   }
